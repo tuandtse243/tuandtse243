@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thanh Tuan</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
-- 🔭 I’m currently working on [Book247](https://book247.vercel.app)
-
 - 🌱 I’m currently learning **Nestjs**
 
 - 💬 Ask me about **Reactjs, Nextjs, Nestjs**
