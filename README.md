@@ -30,7 +30,7 @@ I'm a **Fullstack Developer** with **3 years of experience** building production
 
 I enjoy working across the entire stack and take pride in delivering complete, scalable solutions — not just isolated frontend or backend pieces.
 
-- 🧱 **Backend:** RESTful APIs, NestJS microservices, database design & optimization
+- 🧱 **Backend:** RESTful APIs, NestJS, database design & optimization
 - 🎨 **Frontend:** React, Next.js, pixel-perfect UI, performance & Core Web Vitals
 - 🔌 **Integrations:** CMS platforms, payment gateways, Web3 / smart contracts
 - ⚙️ **DevOps:** CI/CD pipelines, Docker, Vercel, NGINX deployments
