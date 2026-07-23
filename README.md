@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dinh+Thanh+Tuan+%F0%9F%91%8B;Fullstack+Developer+%7C+3+Years+Exp;React+%E2%80%A2+Next.js+%E2%80%A2+NestJS+%E2%80%A2+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dinh+Thanh+Tuan+%F0%9F%91%8B;Software+Engineer+%7C+3+Years+Exp;React+%E2%80%A2+Next.js+%E2%80%A2+NestJS+%E2%80%A2+Node.js" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,12 +26,13 @@
 
 ### 💫 About Me
 
-I'm a **Fullstack Developer** with **3 years of experience** building production-grade web applications end-to-end — from designing robust backend APIs to crafting polished, performant user interfaces.
+I'm a **Software Engineer** with **3 years of experience** building production-grade web applications end-to-end — from designing robust backend APIs to crafting polished, performant user interfaces.
 
 I enjoy working across the entire stack and take pride in delivering complete, scalable solutions — not just isolated frontend or backend pieces.
 
 - 🧱 **Backend:** RESTful APIs, NestJS, database design & optimization
 - 🎨 **Frontend:** React, Next.js, pixel-perfect UI, performance & Core Web Vitals
+- 🤖 **AI Tools:** Claude Code, Codex CLI, Antigravity CLI
 - 🔌 **Integrations:** CMS platforms, payment gateways, Web3 / smart contracts
 - ⚙️ **DevOps:** CI/CD pipelines, Docker, Vercel, NGINX deployments
 - 📐 **Architecture:** Scalable system design, clean code, reusable component libraries
@@ -81,6 +82,14 @@ I enjoy working across the entire stack and take pride in delivering complete, s
       <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="2">
+      <h4>🤖 AI Tools</h4>
+      <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/Codex%20CLI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Antigravity%20CLI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
     </td>
   </tr>
 </table>
